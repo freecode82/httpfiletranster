@@ -17,7 +17,7 @@ usage: node sender.js -f=< filename > -p=< remote receiver port >
 usage: node sender.js -f=< filenaem > -p=3002 -n=< divide file size > -u=< transter unit: KB, MB, GB >  
 multi transfer example: node sender.js -f=asourcefile -p=3002 -n=1 -u=MB  
 sing transper example: node sender.js -f=asourcefile -p=3002  
-example: node sender.js -s=<http://your dns or ip> -f=<filename> -p=<port>  
+example: node sender.js -s=< http://your dns or ip > -f=< filename > -p=< port >  
 
 
 ```
